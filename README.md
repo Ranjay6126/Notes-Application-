@@ -1,4 +1,4 @@
-﻿# Notes-Application-
+﻿# Notes-Application:
 
 📝 Notes Application
 
