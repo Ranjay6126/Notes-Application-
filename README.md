@@ -4,9 +4,9 @@
 
 A simple and user-friendly Notes Application that allows users to create, edit, delete, and manage their notes efficiently. This project focuses on clean UI, smooth functionality, and organized note management for daily productivity.
 
-🚀 Features
+🚀 Features.
 
-➕ Add new notes
+➕ Add new notes.
 
 📝 Edit existing notes
 
