@@ -1,6 +1,6 @@
 ﻿# Notes-Application:
 
-📝 Notes Application
+📝 Notes Application.
 
 A simple and user-friendly Notes Application that allows users to create, edit, delete, and manage their notes efficiently. This project focuses on clean UI, smooth functionality, and organized note management for daily productivity.
 
